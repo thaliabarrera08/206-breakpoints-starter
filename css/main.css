@@ -1,0 +1,14 @@
+/* ----------- Tablets ----------- */
+@media (min-width: 768px) {
+	body {
+    background: blue;
+  }
+}
+
+/* ----------- Desktops----------- */
+@media (min-width: 1200px) {
+  body{
+    background: purple;
+  }
+
+}
